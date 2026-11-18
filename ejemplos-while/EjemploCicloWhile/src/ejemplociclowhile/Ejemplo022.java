@@ -23,7 +23,7 @@ public class Ejemplo022 {
         int suma = 0;
         int multiplicacion = 1;
         
-        System.out.println("Ingrese el Límite"); 
+        System.out.println("Ingrese el limite"); 
         limite = entrada.nextInt(); // 6
         while (contador <= limite){
             
